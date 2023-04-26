@@ -1,5 +1,5 @@
 # Thumb2-Cortex-M
-
+Previous Project that I implemented parts in C, some in Thumb2, and some in both just for fun.
 ## C Standard Library Functions Implemented in Thumb2 Assembly
    Implemented functions have a leading underscore to differentiate those same functions in the C library.
    
